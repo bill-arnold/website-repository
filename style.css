@@ -1,0 +1,6 @@
+body {
+  height: fit-content;
+  background-image: url('background22.jpg'); /* Specify the correct image file path */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
